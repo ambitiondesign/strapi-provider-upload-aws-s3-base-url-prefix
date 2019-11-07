@@ -1,0 +1,43 @@
+{
+  "name": "strapi-provider-upload-aws-s3-base-url",
+  "version": "3.0.0-beta.17.5",
+  "description": "strapi-provider-upload-aws-s3-base-url",
+  "homepage": "https://github.com/ambitiondesign",
+  "keywords": [
+    "upload",
+    "aws",
+    "s3",
+    "strapi",
+    "base url"
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "aws-sdk": "^2.457.0",
+    "lodash": "^4.17.11"
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "author": "ambitiondesign <ambitiondesignmd@gmail.com> (https://github.com/ambitiondesign)",
+  "maintainers": [
+    "ambitiondesign <ambitiondesignmd@gmail.com> (https://github.com/ambitiondesign)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ambitiondesign/strapi-provider-upload-aws-s3-base-url.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ambitiondesign/strapi-provider-upload-aws-s3-base-url/issues"
+  },
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  }
+}
