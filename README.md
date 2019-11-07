@@ -1,4 +1,4 @@
-# strapi-provider-upload-aws-s3-base-url
+# strapi-provider-upload-aws-s3-base-url-prefix
 
 This file upload provider is combination of [strapi-provider-upload-aws-s3](https://github.com/strapi/strapi/blob/master/packages/strapi-provider-upload-aws-s3/) and [strapi-provider-upload-aws-s3-custom-domain](https://github.com/kkpoon/strapi-provider-upload-aws-s3-custom-domain/). 
 
